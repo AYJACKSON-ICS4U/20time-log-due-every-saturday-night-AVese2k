@@ -8,3 +8,5 @@ This week I have continued to learn the languages that I will use to make my web
 This week I started learning the details of HTML and CSS. I spent all my time in class progressing in these two languages, so I did not choose a topic for my website. Next week, I would like to finish the HTML/CSS lessons on Khan Academy and depending on how much time that leaves I could choose the purpose of my website.
 # October 14 log
 In the past week, I continued learning the details of HTML and CSS, but did not finish the lessons on Khan Academy. By the end of this week I would like to finish these lessons and move on to something else. The process of choosing the purpose of my website is still ongoing.
+# October 21 log
+In the past week, I completed the HTML/CSS lessons on khan academy so I now have the ability to make a very simple website. Eventually I would like to learn more about these languages so I can make a higher quality, more complex website. Now that I am done the khan academy lessons, I will try to focus more on deciding a purpose for my website. Once this is done, I will be able to move on to planning how the website will look.
