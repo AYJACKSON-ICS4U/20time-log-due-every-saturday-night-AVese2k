@@ -10,3 +10,5 @@ This week I started learning the details of HTML and CSS. I spent all my time in
 In the past week, I continued learning the details of HTML and CSS, but did not finish the lessons on Khan Academy. By the end of this week I would like to finish these lessons and move on to something else. The process of choosing the purpose of my website is still ongoing.
 # October 21 log
 In the past week, I completed the HTML/CSS lessons on khan academy so I now have the ability to make a very simple website. Eventually I would like to learn more about these languages so I can make a higher quality, more complex website. Now that I am done the khan academy lessons, I will try to focus more on deciding a purpose for my website. Once this is done, I will be able to move on to planning how the website will look.
+# October 28 log
+This week I did not spend any time working on my 20 time project. In the next few weeks I would like to have chosen a purpose for my website and moved on to creating a general layout for the visual aspect of it. At some point I will need to learn more about JavaScript, HTML, and CSS so that my website functions as well as possible.
