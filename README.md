@@ -30,3 +30,5 @@ This week I finally decided that my website will be about the 2018 FIFA World Cu
 In the final week before the christmas break I spent time on Khan Academy. I am leaving the creation of my website for the christmas break. Now that I have a topic for the website, I have begun brainstorming the information and layout of it. For now the website will be one long page with various sections, so I will need enough information to achieve this.
 # December 30 log
 This week I spent no time on my 20 time project other than continuing to brainstorm ideas for the layout of the website. I hope to start and complete it before school returns, which should not be too difficult considering I have a general idea of what it will look like and how it should be coded.
+# January 6 log
+This week I began creating my website on atom. So far I have completed the toolbar with working links and have created a tournament tree on draw.io. This is currently the only content on the website, and I hope to complete the website in the next week. Eventually, I might add more features to the website to make it more advanced. Once it is done I will put it on github using GH pages.
