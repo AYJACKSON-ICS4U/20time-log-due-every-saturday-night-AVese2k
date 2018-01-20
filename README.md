@@ -32,3 +32,5 @@ In the final week before the christmas break I spent time on Khan Academy. I am 
 This week I spent no time on my 20 time project other than continuing to brainstorm ideas for the layout of the website. I hope to start and complete it before school returns, which should not be too difficult considering I have a general idea of what it will look like and how it should be coded.
 # January 6 log
 This week I began creating my website on atom. So far I have completed the toolbar with working links and have created a tournament tree on draw.io. This is currently the only content on the website, and I hope to complete the website in the next week. Eventually, I might add more features to the website to make it more advanced. Once it is done I will put it on github using GH pages.
+# January 13 log
+This week I completed a basic version of my website using the knowledge I currently have in HTML and CSS. I had to learn how to use grids to display the groups in the tournament and create a calendar for games and chart for statistics. I might add more information to the website if I have enough time. Next week I will put my website on GitHub so that anyone can see it.
