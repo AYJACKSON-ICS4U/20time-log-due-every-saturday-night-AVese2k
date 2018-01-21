@@ -35,4 +35,4 @@ This week I began creating my website on atom. So far I have completed the toolb
 # January 13 log
 This week I completed a basic version of my website using the knowledge I currently have in HTML and CSS. I had to learn how to use grids to display the groups in the tournament and create a calendar for games and chart for statistics. I might add more information to the website if I have enough time. Next week I will put my website on GitHub so that anyone can see it.
 # January 20 log
-This week I uploaded my website to GitHub so that it is available to anybody. Other than that I did not have time to add to my website and might not have time in the next few weeks either. By the end of the weekend I will complete my presentation for the whole project. Visit my website at https://avese2k.github.io/#Statistics.
+This week I uploaded my website to GitHub so that it is available to anybody. Other than that I did not have time to add to my website and might not have time in the next few weeks either. By the end of the weekend I will complete my presentation for the whole project. Visit my website at https://avese2k.github.io/.
